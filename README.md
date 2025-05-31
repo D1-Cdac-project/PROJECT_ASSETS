@@ -47,5 +47,3 @@ This repo helps team members to:
 ## 👨‍💻 Maintained By
 
 Team **D1 CDAC**  
-(For internal use during project development)
-```
